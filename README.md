@@ -48,14 +48,12 @@ My goal:
 
 </div>
 
+
 ## `$ github --stats`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AllainDasantad&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllainDasantad&layout=compact&theme=chartreuse-dark&hide_border=true" />
-
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </div>
 
 <div align="center">
