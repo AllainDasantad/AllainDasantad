@@ -48,6 +48,8 @@ My goal:
 
 </div>
 
+## `$ github --stats`
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AllainDasantad&show_icons=true&theme=chartreuse-dark&hide_border=true" />
