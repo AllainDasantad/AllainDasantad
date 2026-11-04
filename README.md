@@ -6,8 +6,6 @@
 
 <div align="center">
 
-# `root@allain:~$ whoami`
-
 ### ALLAIN DASANTAD
 
 **Cybersecurity | Cloud Security | Linux Enthusiast**
@@ -19,8 +17,6 @@
 </div>
 
 ---
-
-## `$ cat about-me.txt`
 
 ```text
 Hello! I'm Allain.
@@ -38,7 +34,6 @@ My goal:
   > Become a skilled security engineer.
 ```
 
-## `$ ls ~/projects`
 
 | Project | Description | Language |
 |---|---|---|
@@ -46,15 +41,12 @@ My goal:
 | PySecLab | HTTP security header checker | Python |
 | PSA Rust | Network packet sniffer built in Rust | Rust |
 
-## `$ cat tech-stack.txt`
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,arch,python,rust,git,github,bash,vim" />
 
 </div>
-
-## `$ github --stats`
 
 <div align="center">
 
@@ -64,15 +56,12 @@ My goal:
 
 </div>
 
-## `$ git log --contributions`
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AllainDasantad/AllainDasantad/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
-## `$ echo "Let's connect"`
 
 <div align="center">
 
