@@ -1,77 +1,87 @@
-
-<!--
-  GitHub Profile README
-  Author: AllainDasantad
--->
-
 <div align="center">
 
-### ALLAIN DASANTAD
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:09090b,50:241b1a,100:09090b&text=ALLAIN%20DASANTAD&fontColor=d6b58a&fontSize=38&fontAlignY=38&desc=Cybersecurity%20%7C%20Cloud%20Security%20%7C%20Linux&descAlignY=60&descSize=15" width="100%" />
 
-**Cybersecurity | Cloud Security | Linux Enthusiast**
+### `⟡ $ whoami`
 
-`Learning • Building • Securing`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=Exploring+Cybersecurity;Learning+Cloud+Security;Building+with+Python+%26+Rust;Linux+is+my+playground" alt="Typing SVG" />
+**AllainDasantad** · Cybersecurity & Cloud Security student  
+*Build · Secure · Explore*
 
 </div>
 
 ---
 
-```text
-Hello! I'm Allain.
+## `Ⅰ. About the Keeper`
 
+```text
+Hello, I'm Allain.
 I'm a freshman interested in cybersecurity and cloud security.
 I enjoy Linux, programming, networking, and building security tools.
 
-Currently learning:
-  > Network Security
-  > Cloud Security
-  > Rootkit research
-  > Linux and System Administration
-
-My goal:
-  > Become a skilled security engineer.
+> Let's secure a better digital world together.
 ```
 
+-  Cybersecurity
+-  Cloud Security
+-  Linux & Open Source
+-  Programming
+-  Network Security
+
+---
+
+## `Ⅱ. Relics / Projects`
 
 | Project | Description | Language |
 |---|---|---|
-| [Network Packet Sniffer](https://github.com/AllainDasantad/networkpacketsniff) | Network packet analysis | Python |
-| PySecLab | HTTP security header checker | Python |
-| PSA Rust | Network packet sniffer built in Rust | Rust |
+| [PySecLab](https://github.com/AllainDasantad/pyseclab) | HTTP security-header checker | Python |
+| [PSA Rust](https://github.com/AllainDasantad/psa-rust) | Network packet sniffer in Rust | Rust |
+| [Network Packet Sniffer](https://github.com/AllainDasantad/networkpacketsniff) | Packet analysis toolkit | Python |
+| [MAC Spoofing Lab](https://github.com/AllainDasantad/MACspoofing) | Local lab CLI for MAC address practice | Python |
 
+---
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,arch,python,rust,git,github,bash,vim" />
-
-</div>
-
-
-## `$ github --stats`
-
-<div align="center">
-  <img height="165" src="./profile/stats.svg" />
-  <img height="165" src="./profile/top-langs.svg" />
-</div>
+## `Ⅲ. Arsenal / Tech Stack`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AllainDasantad/AllainDasantad/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+<img src="https://skillicons.dev/icons?i=linux,arch,python,rust,c,git,github,docker,vscode,neovim&theme=dark" />
 
 </div>
 
+---
+
+## `Ⅳ. Grimoire / GitHub Stats`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AllainDasantad-181717?style=for-the-badge&logo=github)](https://github.com/AllainDasantad)
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
 
 </div>
+
+---
+
+## `Ⅴ. The Chronicle / Contributions`
 
 <div align="center">
 
-`EOF — Thanks for visiting my terminal.`
+<img src="https://raw.githubusercontent.com/AllainDasantad/AllainDasantad/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
+---
+
+## `Ⅵ. Summon / Contact`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0b0b0d?style=for-the-badge&logo=github&logoColor=d6b58a)](https://github.com/AllainDasantad)
+[![Email](https://img.shields.io/badge/Email-241b1a?style=for-the-badge&logo=gmail&logoColor=d6b58a)](mailto:allaindasantad@gmail.com)
+
+<br/>
+
+*“Build. Secure. Learn. Repeat.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:09090b,50:241b1a,100:09090b" width="100%" />
+
+</div>
