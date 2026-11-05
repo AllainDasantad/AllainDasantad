@@ -52,21 +52,22 @@ and learning how systems work from the inside out.
 | [MAC Spoofing](https://github.com/AllainDasant/MACspoofing.git) | MAC address lab utility | Python |
 
 
+
 ## `github_stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllainDasantad&show_icons=true&theme=transparent&hide_border=true&title_color=9CAF88&icon_color=9CAF88&text_color=C8D5C0&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllainDasantad&layout=compact&theme=transparent&hide_border=true&title_color=9CAF88&text_color=C8D5C0&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AllainDasantad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9CAF88&icon_color=9CAF88&text_color=C8D5C0" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllainDasantad&layout=compact&hide_border=true&bg_color=0D1117&title_color=9CAF88&text_color=C8D5C0" width="320"/>
 </p>
+
 
 
 ## `contribution_activity`
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllainDasantad&theme=dark&hide_border=true&background=0D1117&ring=9CAF88&fire=9CAF88&currStreakLabel=9CAF88" width="700"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AllainDasantad&bg_color=101B18&color=A8B8A0&line=78949B&point=E7E5D8&area=true&hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
