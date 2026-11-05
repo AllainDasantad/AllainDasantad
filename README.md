@@ -51,15 +51,14 @@ and learning how systems work from the inside out.
 | [Network Packet Sniffer](https://github.com/AllainDasantad/networkpacketsniff.git) | Packet analysis & traffic inspection | Python |
 | [MAC Spoofing](https://github.com/AllainDasant/MACspoofing.git) | MAC address lab utility | Python |
 
+
 ## `github_stats`
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AllainDasantad&show_icons=true&theme=transparent&hide_border=true&title_color=9CAF88&icon_color=9CAF88&text_color=C8D5C0&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllainDasantad&layout=compact&theme=transparent&hide_border=true&title_color=9CAF88&text_color=C8D5C0&bg_color=0D1117" height="165"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AllainDasantad&show_icons=true&hide_border=true&bg_color=101B18&title_color=A8B8A0&icon_color=78949B&text_color=E7E5D8" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllainDasantad&layout=compact&hide_border=true&bg_color=101B18&title_color=A8B8A0&text_color=E7E5D8" width="49%" />
-
-</div>
 
 ## `contribution_activity`
 
