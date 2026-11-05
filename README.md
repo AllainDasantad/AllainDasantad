@@ -1,5 +1,5 @@
 <a href="https://github.com/AllainDasantad">
-  <img src="assets/profile-hero.svg" width="100%" alt="Allain Dasantad — Cybersecurity, Cloud and Systems" />
+  <img src="assets/profile-hero.svg?v=2" width="100%" alt="Allain Dasantad — Cybersecurity, Cloud and Systems" />
 </a>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <img src="assets/about-intro-v2.svg" width="100%" alt="About Allain: CMKL University student interested in cybersecurity, cloud infrastructure, networking and systems. Uses Arch Linux and Neovim." />
 
 <img src="assets/title-focus-v2.svg" width="100%" alt="Current direction" />
-<img src="assets/focus-panel-v2.svg" width="100%" alt="Current focus: security investigation, Azure cloud security, Linux and systems engineering." />
+<img src="assets/focus-panel-v2.svg?v=2" width="100%" alt="Current focus: security investigation, Azure cloud security, Linux and systems engineering." />
 
 <img src="assets/title-work-v2.svg" width="100%" alt="Selected work" />
 
