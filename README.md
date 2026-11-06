@@ -18,23 +18,23 @@
 
 <a href="https://github.com/AllainDasantad/netsniff"><img src="assets/project-netsniff-v2.svg" width="100%" alt="NetSniff — desktop network analyzer built with React, TypeScript, Rust and Tauri." /></a>
 <p align="center">
-  <a href="https://github.com/AllainDasantad/netsniff"><img src="https://img.shields.io/badge/Repository-NetSniff-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="NetSniff repository" /></a>
+  <a href="https://github.com/AllainDasantad/netsniff"><img src="https://img.shields.io/badge/Repository-NetSniff-0B1F3A?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="NetSniff repository" /></a>
 </p>
 
 <a href="https://github.com/AllainDasantad/sshguard"><img src="assets/project-sshguard-v2.svg" width="100%" alt="SSHGuard Lab — isolated SSH authentication testing and log analysis in Python." /></a>
 <p align="center">
-  <a href="https://github.com/AllainDasantad/sshguard"><img src="https://img.shields.io/badge/Repository-SSHGuard_Lab-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="SSHGuard repository" /></a>
+  <a href="https://github.com/AllainDasantad/sshguard"><img src="https://img.shields.io/badge/Repository-SSHGuard_Lab-0B1F3A?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="SSHGuard repository" /></a>
 </p>
 
 <a href="https://github.com/AllainDasantad/pypentesting"><img src="assets/project-pyseclab-v2.svg" width="100%" alt="PySecLab — Python HTTP security header checker and JSON reporting tool." /></a>
 <p align="center">
-  <a href="https://github.com/AllainDasantad/pypentesting"><img src="https://img.shields.io/badge/Repository-PySecLab-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="PySecLab repository" /></a>
+  <a href="https://github.com/AllainDasantad/pypentesting"><img src="https://img.shields.io/badge/Repository-PySecLab-0B1F3A?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="PySecLab repository" /></a>
 </p>
 
 <a href="https://github.com/AllainDasantad/MACspoofing"><img src="assets/project-macspoofing-v2.svg" width="100%" alt="MAC Address Lab — Linux network interface discovery and MAC address experimentation." /></a>
 <p align="center">
-  <a href="https://github.com/AllainDasantad/MACspoofing"><img src="https://img.shields.io/badge/Repository-MACspoofing-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="MACspoofing repository" /></a>
-  <a href="https://github.com/AllainDasantad/Nmap-scanner"><img src="https://img.shields.io/badge/Also-Nmap--scanner-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Nmap scanner repository" /></a>
+  <a href="https://github.com/AllainDasantad/MACspoofing"><img src="https://img.shields.io/badge/Repository-MACspoofing-0B1F3A?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="MACspoofing repository" /></a>
+  <a href="https://github.com/AllainDasantad/Nmap-scanner"><img src="https://img.shields.io/badge/Also-Nmap--scanner-0B1F3A?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="Nmap scanner repository" /></a>
 </p>
 
 <img src="assets/title-toolkit-v2.svg" width="100%" alt="Toolkit" />
