@@ -23,7 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%234F8FCB&color_dots=%230B1F3A,%23102B4C,%23123B63,%231D5A91,%234F8FCB
 
       - name: Publish Snake Animation
         uses: peaceiris/actions-gh-pages@v4
