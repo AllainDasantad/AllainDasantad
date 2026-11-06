@@ -1,18 +1,18 @@
 <a href="https://github.com/AllainDasantad">
-  <img src="assets/profile-hero.svg?v=2" width="100%" alt="Allain Dasantad — Cybersecurity, Cloud and Systems" />
+  <img src="assets/profile-hero.svg?v=3" width="100%" alt="Allain Dasantad — Cybersecurity, Cloud and Systems" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/AllainDasantad"><img src="https://img.shields.io/badge/GitHub-AllainDasantad-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile" /></a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-701A3D?style=for-the-badge&labelColor=190B12" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Exploring-Cloud%20Infrastructure-701A3D?style=for-the-badge&labelColor=190B12" alt="Cloud infrastructure" />
+  <a href="https://github.com/AllainDasantad"><img src="https://img.shields.io/badge/GitHub-AllainDasantad-123B63?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-123B63?style=for-the-badge&labelColor=071426" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Exploring-Cloud%20Infrastructure-123B63?style=for-the-badge&labelColor=071426" alt="Cloud infrastructure" />
 </p>
 
 <img src="assets/title-about-v2.svg" width="100%" alt="About me" />
 <img src="assets/about-intro-v2.svg" width="100%" alt="About Allain: CMKL University student interested in cybersecurity, cloud infrastructure, networking and systems. Uses Arch Linux and Neovim." />
 
 <img src="assets/title-focus-v2.svg" width="100%" alt="Current direction" />
-<img src="assets/focus-panel-v2.svg?v=2" width="100%" alt="Current focus: security investigation, Azure cloud security, Linux and systems engineering." />
+<img src="assets/focus-panel-v2.svg?v=3" width="100%" alt="Current focus: security investigation, Azure cloud security, Linux and systems engineering." />
 
 <img src="assets/title-work-v2.svg" width="100%" alt="Selected work" />
 
@@ -54,7 +54,7 @@
 <img src="assets/title-connect-v2.svg" width="100%" alt="Let's connect" />
 
 <p align="center">
-  <a href="https://github.com/AllainDasantad"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Follow on GitHub" /></a>
+  <a href="https://github.com/AllainDasantad"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-123B63?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="Follow on GitHub" /></a>
 </p>
 
 <a href="https://github.com/AllainDasantad">
