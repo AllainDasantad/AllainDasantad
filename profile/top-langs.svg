@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #4F8FCB;
+            fill: #7fff00;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #EAF3FF;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #fff;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #EAF3FF;
+      fill: #fff;
     }
     .stagger {
       opacity: 0;
@@ -59,7 +59,7 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
-    .progress-background { fill: #0B1F3A; }
+    .progress-background { fill: #ddd; }
     
           
 
@@ -99,9 +99,9 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#123B63"
+          stroke="#e4e2e2"
           width="299"
-          fill="#071426"
+          fill="#000"
           stroke-opacity="0"
         />
 
@@ -140,7 +140,7 @@
           y="0"
           width="126.79"
           height="8"
-          fill="#4F8FCB"
+          fill="#3178c6"
         />
       
         <rect
@@ -150,7 +150,7 @@
           y="0"
           width="70.74"
           height="8"
-          fill="#20349c"
+          fill="#663399"
         />
       
         <rect
@@ -160,7 +160,7 @@
           y="0"
           width="26.06"
           height="8"
-          fill="#1D5A91"
+          fill="#3572A5"
         />
       
         <rect
@@ -170,7 +170,7 @@
           y="0"
           width="21.03"
           height="8"
-          fill="#B9D7F5"
+          fill="#dea584"
         />
       
         <rect
@@ -180,7 +180,7 @@
           y="0"
           width="14.8"
           height="8"
-          fill="#123B63"
+          fill="#555555"
         />
       
         <rect
@@ -190,49 +190,49 @@
           y="0"
           width="10.58"
           height="8"
-          fill="#8AB8E8"
+          fill="#e34c26"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#4F8FCB" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         TypeScript 50.71%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#20349c" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 28.30%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#1D5A91" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 10.43%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#B9D7F5" />
+      <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Rust 8.41%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#123B63" />
+      <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C 1.92%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#8AB8E8" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         HTML 0.23%
       </text>
