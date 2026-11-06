@@ -20,6 +20,10 @@
 
 <img src="assets/title-work-v2.svg" width="100%" alt="Selected work" />
 
+<p align="center">
+  <img src="assets/repository-marquee.svg?v=1" width="100%" alt="Sliding showcase of Allain repositories" />
+</p>
+
 <a href="https://github.com/AllainDasantad/netsniff"><img src="assets/project-netsniff-v2.svg" width="100%" alt="NetSniff — desktop network analyzer built with React, TypeScript, Rust and Tauri." /></a>
 <p align="center">
   <a href="https://github.com/AllainDasantad/netsniff"><img src="https://img.shields.io/badge/Repository-NetSniff-0B1F3A?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="NetSniff repository" /></a>
