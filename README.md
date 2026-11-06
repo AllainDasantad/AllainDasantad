@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/contribution-grid.svg?v=1" width="100%" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/AllainDasantad/AllainDasantad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 </p>
 
 <img src="assets/title-connect-v2.svg" width="100%" alt="Let's connect" />
