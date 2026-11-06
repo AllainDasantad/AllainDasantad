@@ -3,6 +3,10 @@
 </a>
 
 <p align="center">
+  <img src="assets/web-threads.svg?v=1" width="100%" alt="Animated Midnight Sapphire web threads" />
+</p>
+
+<p align="center">
   <a href="https://github.com/AllainDasantad"><img src="https://img.shields.io/badge/GitHub-AllainDasantad-123B63?style=for-the-badge&labelColor=071426&logo=github&logoColor=EAF3FF" alt="GitHub profile" /></a>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-123B63?style=for-the-badge&labelColor=071426" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Exploring-Cloud%20Infrastructure-123B63?style=for-the-badge&labelColor=071426" alt="Cloud infrastructure" />
