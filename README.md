@@ -1,5 +1,5 @@
 <a href="https://github.com/AllainDasantad">
-  <img src="assets/profile-hero.svg?v=3" width="100%" alt="Allain Dasantad — Cybersecurity, Cloud and Systems" />
+  <img src="assets/profile-hero.svg?v=3" width="100%" alt="Allain Dasantad  Cybersecurity, Cloud and Systems" />
 </a>
 
 <p align="center">
