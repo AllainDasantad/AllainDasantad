@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-label="Toolkit: programming languages, security, cloud, frontend, systems and workflow technologies">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-label="Toolkit: Python, C, C++, Rust; cloud security architecture and penetration testing; AWS, Google Cloud, Azure, Docker and Kubernetes; frontend; Arch Linux and BlackArch; Git, GitHub and Postman">
 <title>Toolkit</title>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#050D19"/></linearGradient>
@@ -9,18 +9,28 @@
  <rect x="24" y="22" width="360" height="166" rx="14"/><rect x="420" y="22" width="360" height="166" rx="14"/><rect x="816" y="22" width="360" height="166" rx="14"/>
  <rect x="24" y="214" width="360" height="166" rx="14"/><rect x="420" y="214" width="360" height="166" rx="14"/><rect x="816" y="214" width="360" height="166" rx="14"/>
 </g>
-<g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">
- <g fill="#69B8FF" letter-spacing="2">
-  <text x="52" y="61">01 / LANGUAGES</text><text x="448" y="61">02 / SECURITY</text><text x="844" y="61">03 / CLOUD</text>
-  <text x="52" y="253">04 / FRONTEND</text><text x="448" y="253">05 / SYSTEMS</text><text x="844" y="253">06 / WORKFLOW</text>
+<!-- Every text element uses the same 18px font size for consistent visual hierarchy. -->
+<g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">
+ <g fill="#69B8FF" letter-spacing="1.1">
+  <text x="52" y="58">01 / LANGUAGES</text>
+  <text x="448" y="58">02 / SECURITY</text>
+  <text x="844" y="58">03 / DATA &amp; INFRASTRUCTURE</text>
+  <text x="52" y="250">04 / FRONTEND</text>
+  <text x="448" y="250">05 / OPERATING SYSTEMS</text>
+  <text x="844" y="250">06 / TOOLS &amp; FUNDAMENTALS</text>
  </g>
- <g fill="#E7F0FC" font-family="Georgia,Times New Roman,serif">
-  <text x="52" y="113">Programming</text><text x="448" y="113">Networking</text><text x="844" y="113">Microsoft Azure</text>
-  <text x="52" y="305">React · TypeScript</text><text x="448" y="305">Linux · Arch Linux</text><text x="844" y="305">Git · GitHub</text>
+ <g fill="#E7F0FC">
+  <text x="52" y="101">Python · C · C++ · Rust</text>
+  <text x="448" y="101">Cloud Security Architect</text>
+  <text x="844" y="101">AWS · Google Cloud · Azure</text>
+  <text x="52" y="293">React · TypeScript</text>
+  <text x="448" y="293">Arch Linux · BlackArch</text>
+  <text x="844" y="293">Git · GitHub · Postman</text>
  </g>
  <g fill="#B4C5D9">
-  <text x="52" y="151">Python · C · Go · Rust</text><text x="448" y="151">Web security · SSH</text><text x="844" y="151">Cloud infrastructure</text>
-  <text x="52" y="343">JavaScript · HTML · CSS</text><text x="448" y="343">Neovim · Docker</text><text x="844" y="343">CLI · Testing</text>
+  <text x="448" y="139">Penetration Testing</text>
+  <text x="844" y="139">Docker · Kubernetes</text>
+  <text x="52" y="331">JavaScript · HTML · CSS</text>
  </g>
 </g>
 </svg>
