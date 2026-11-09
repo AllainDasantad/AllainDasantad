@@ -5,7 +5,7 @@
  <radialGradient id="glow" cx="86%" cy="8%" r="78%"><stop stop-color="#123B63" stop-opacity=".62"/><stop offset="1" stop-color="#0B1F3A" stop-opacity="0"/></radialGradient>
 </defs>
 <rect width="1200" height="410" rx="18" fill="url(#bg)"/><rect width="1200" height="410" rx="18" fill="url(#glow)"/>
-<g fill="#071426" stroke="#4F8FCB" stroke-opacity=".34" stroke-width="1.2">
+<g class="toolkit-card" fill="#071426" stroke="#4F8FCB" stroke-opacity=".34" stroke-width="1.2">
  <rect x="24" y="22" width="360" height="166" rx="14"/><rect x="420" y="22" width="360" height="166" rx="14"/><rect x="816" y="22" width="360" height="166" rx="14"/>
  <rect x="24" y="214" width="360" height="166" rx="14"/><rect x="420" y="214" width="360" height="166" rx="14"/><rect x="816" y="214" width="360" height="166" rx="14"/>
 </g>
@@ -33,4 +33,11 @@
   <text x="52" y="331">JavaScript · HTML · CSS</text>
  </g>
 </g>
-</svg>
+<style>
+@keyframes toolkitGlow{0%,100%{stroke-opacity:.28}50%{stroke-opacity:.72}}
+@keyframes toolkitFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+.toolkit-card{animation:toolkitFloat 8s ease-in-out infinite}
+.toolkit-card:nth-of-type(2){animation-delay:-1.3s}.toolkit-card:nth-of-type(3){animation-delay:-2.6s}
+.toolkit-card:nth-of-type(4){animation-delay:-3.9s}.toolkit-card:nth-of-type(5){animation-delay:-5.2s}.toolkit-card:nth-of-type(6){animation-delay:-6.5s}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></svg>
