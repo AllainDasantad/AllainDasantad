@@ -3,4 +3,14 @@
 <rect x="28" y="28" width="730" height="284" rx="14" fill="#050D19" stroke="#4F8FCB" stroke-opacity=".35"/><path d="M28 70H758" stroke="#4F8FCB" stroke-opacity=".25"/><circle cx="52" cy="49" r="5" fill="#123B63"/><circle cx="70" cy="49" r="5" fill="#0B1F3A"/><circle cx="88" cy="49" r="5" fill="#0B1F3A"/><text class="mono" x="390" y="54" text-anchor="middle" font-size="11" fill="#A9BCD0">allain@profile: ~/about</text>
 <g class="mono" font-size="14"><text x="56" y="110" fill="#4F8FCB">$ whoami</text><text x="56" y="138" fill="#EAF3FF">Student at CMKL University, exploring computing and engineering.</text><text x="56" y="182" fill="#4F8FCB">$ cat interests.txt</text><text x="56" y="210" fill="#EAF3FF">Cybersecurity · Cloud infrastructure · Networking · Systems</text><text x="56" y="254" fill="#4F8FCB">$ echo $APPROACH</text><text x="56" y="282" fill="#EAF3FF">Learn fundamentals. Build tools. Understand how things work.</text></g>
 <rect x="790" y="28" width="382" height="284" rx="14" fill="#071426" stroke="#4F8FCB" stroke-opacity=".3"/><text class="mono" x="816" y="67" font-size="12" letter-spacing="2" fill="#4F8FCB">QUICK PROFILE</text><path d="M816 82H1146" stroke="#4F8FCB" stroke-opacity=".2"/><g class="mono" font-size="15" fill="#EAF3FF"><text x="816" y="124">STUDY</text><text x="930" y="124" fill="#A9BCD0">CMKL University</text><text x="816" y="168">FOCUS</text><text x="930" y="168" fill="#A9BCD0">Security + Cloud</text><text x="816" y="212">OS</text><text x="930" y="212" fill="#A9BCD0">Arch Linux</text><text x="816" y="256">EDITOR</text><text x="930" y="256" fill="#A9BCD0">Neovim</text></g><text class="mono" x="816" y="288" font-size="11" fill="#4F8FCB">LEARN / BUILD / INVESTIGATE</text>
-</svg>
+<style>
+@keyframes termReveal{from{opacity:0;transform:translateX(12px)}to{opacity:1;transform:none}}
+@keyframes terminalBlink{50%{opacity:0}}
+@keyframes scanPass{0%{transform:translateY(-350px);opacity:0}15%{opacity:.45}85%{opacity:.35}100%{transform:translateY(350px);opacity:0}}
+text{animation:termReveal .9s cubic-bezier(.16,1,.3,1) both}
+text:nth-of-type(1){animation-delay:.15s} text:nth-of-type(2){animation-delay:.35s} text:nth-of-type(3){animation-delay:.55s}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="28" y="28" width="730" height="284" fill="none" stroke="#B9D7F5" stroke-opacity=".08"><animate attributeName="stroke-opacity" values=".08;.35;.08" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="28" y="-4" width="730" height="18" fill="#B9D7F5" opacity=".08"><animate attributeName="y" values="-20;330" dur="9s" repeatCount="indefinite"/></rect>
+<circle cx="1146" cy="282" r="3" fill="#B9D7F5"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle></svg>
