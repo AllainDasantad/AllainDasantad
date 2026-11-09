@@ -9,16 +9,16 @@
  <rect x="24" y="22" width="360" height="166" rx="14"/><rect x="420" y="22" width="360" height="166" rx="14"/><rect x="816" y="22" width="360" height="166" rx="14"/>
  <rect x="24" y="214" width="360" height="166" rx="14"/><rect x="420" y="214" width="360" height="166" rx="14"/><rect x="816" y="214" width="360" height="166" rx="14"/>
 </g>
-<g font-family="Inter,Segoe UI,Arial,sans-serif">
- <g fill="#69B8FF" font-size="13" letter-spacing="3">
+<g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">
+ <g fill="#69B8FF" letter-spacing="2">
   <text x="52" y="61">01 / LANGUAGES</text><text x="448" y="61">02 / SECURITY</text><text x="844" y="61">03 / CLOUD</text>
   <text x="52" y="253">04 / FRONTEND</text><text x="448" y="253">05 / SYSTEMS</text><text x="844" y="253">06 / WORKFLOW</text>
  </g>
- <g fill="#E7F0FC" font-family="Georgia,Times New Roman,serif" font-size="38">
+ <g fill="#E7F0FC" font-family="Georgia,Times New Roman,serif">
   <text x="52" y="113">Programming</text><text x="448" y="113">Networking</text><text x="844" y="113">Microsoft Azure</text>
   <text x="52" y="305">React · TypeScript</text><text x="448" y="305">Linux · Arch Linux</text><text x="844" y="305">Git · GitHub</text>
  </g>
- <g fill="#B4C5D9" font-size="18">
+ <g fill="#B4C5D9">
   <text x="52" y="151">Python · C · Go · Rust</text><text x="448" y="151">Web security · SSH</text><text x="844" y="151">Cloud infrastructure</text>
   <text x="52" y="343">JavaScript · HTML · CSS</text><text x="448" y="343">Neovim · Docker</text><text x="844" y="343">CLI · Testing</text>
  </g>
