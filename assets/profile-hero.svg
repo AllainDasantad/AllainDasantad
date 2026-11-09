@@ -8,8 +8,8 @@
 <rect width="1200" height="420" rx="20" fill="url(#bg)"/><rect width="1200" height="420" rx="20" fill="url(#glow)"/>
 <g opacity=".15" stroke="#4F8FCB"><path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420"/></g>
 <text x="76" y="92" font-family="monospace" font-size="14" letter-spacing="4" fill="#4F8FCB">CYBERSECURITY / CLOUD / SYSTEMS</text>
-<text class="hero-title" x="72" y="190" font-family="Georgia,serif" font-size="78" fill="#EAF3FF">ALLAIN</text><text x="72" y="276" font-family="Georgia,serif" font-size="78" fill="#B9D7F5">DASANTAD</text>
-<path d="M76 306H680" stroke="#4F8FCB" stroke-width="2"/>
+<text class="hero-title name-first" x="72" y="190" font-family="Georgia,serif" font-size="78" fill="#EAF3FF">ALLAIN</text><text class="name-second" x="72" y="276" font-family="Georgia,serif" font-size="78" fill="#B9D7F5">DASANTAD</text>
+<path class="name-rule" d="M76 306H680" stroke="#4F8FCB" stroke-width="2" pathLength="100"/>
 <text x="76" y="350" font-family="Arial,sans-serif" font-size="22" fill="#EAF3FF">Learning how systems work — and how to secure them.</text>
 <g transform="translate(920 204)">
  <circle r="112" fill="#0B1F3A" fill-opacity=".48" stroke="#4F8FCB" stroke-opacity=".7" stroke-width="2"/>
@@ -21,6 +21,11 @@
 <g fill="#B9D7F5"><circle cx="920" cy="92" r="5"/><circle cx="1032" cy="204" r="5"/><circle cx="920" cy="316" r="5"/><circle cx="808" cy="204" r="5"/></g>
 <style>
 @keyframes heroFadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes nameReveal{0%{opacity:0;transform:translateY(24px);filter:drop-shadow(0 0 0px #4F8FCB)}65%{opacity:1;filter:drop-shadow(0 0 12px #4F8FCB)}100%{opacity:1;transform:translateY(0);filter:drop-shadow(0 0 3px #4F8FCB)}}
+@keyframes nameRuleDraw{from{stroke-dasharray:0 100}to{stroke-dasharray:100 0}}
+.name-first{opacity:0;animation:nameReveal 1.15s cubic-bezier(.16,1,.3,1) .2s forwards!important}
+.name-second{opacity:0;animation:nameReveal 1.15s cubic-bezier(.16,1,.3,1) .55s forwards!important}
+.name-rule{stroke-dasharray:0 100;animation:nameRuleDraw 1.4s ease 1.15s forwards}
 @keyframes heroOrbit{to{transform:rotate(360deg)}}
 @keyframes heroPulse{0%,100%{opacity:.28}50%{opacity:.8}}
 text{animation:heroFadeUp 1.2s cubic-bezier(.16,1,.3,1) both}
