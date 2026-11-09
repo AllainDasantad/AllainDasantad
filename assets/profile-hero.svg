@@ -7,7 +7,7 @@
 </defs>
 <rect width="1200" height="420" rx="20" fill="url(#bg)"/><rect width="1200" height="420" rx="20" fill="url(#glow)"/>
 <g opacity=".15" stroke="#4F8FCB"><path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420"/></g>
-<text x="76" y="92" font-family="monospace" font-size="14" letter-spacing="4" fill="#4F8FCB">CYBERSECURITY / CLOUD / SOFTWARE</text>
+<text x="76" y="92" font-family="monospace" font-size="14" letter-spacing="4" fill="#4F8FCB">CYBERSECURITY | CLOUD | SOFTWARE</text>
 <text class="hero-title name-first" x="72" y="190" font-family="Georgia,serif" font-size="78" fill="#EAF3FF">ALLAIN</text><text class="name-second" x="72" y="276" font-family="Georgia,serif" font-size="78" fill="#B9D7F5">DASANTAD</text>
 <path class="name-rule" d="M76 306H680" stroke="#4F8FCB" stroke-width="2" pathLength="100"/>
 <text x="76" y="350" font-family="Arial,sans-serif" font-size="22" fill="#EAF3FF">Silence is the language of winning position</text>
