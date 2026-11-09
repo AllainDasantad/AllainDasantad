@@ -32,11 +32,6 @@
 <img src="assets/title-commits-v2.svg?v=2" width="100%" alt="Commit log" />
 
 <p align="center">
-  <img src="profile/stats.svg" width="49%" alt="GitHub statistics" />
-  <img src="profile/top-langs.svg" width="49%" alt="Most used programming languages" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/AllainDasantad/AllainDasantad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 </p>
 
