@@ -73,4 +73,9 @@
     <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="36s" repeatCount="indefinite"/>
   </g>
 </g>
-</svg>
+<style>
+@keyframes marqueeGlow{0%,100%{opacity:.25}50%{opacity:.8}}
+.marquee-edge{animation:marqueeGlow 5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<path class="marquee-edge" d="M0 218H1200" stroke="#B9D7F5" stroke-width="2" opacity=".5"/></svg>
