@@ -12,12 +12,12 @@
 <!-- Every text element uses the same 18px font size for consistent visual hierarchy. -->
 <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">
  <g fill="#69B8FF" letter-spacing="1.1">
-  <text x="52" y="58">01  LANGUAGES</text>
-  <text x="448" y="58">02  SECURITY</text>
-  <text x="844" y="58">03  DATA &amp; INFRASTRUCTURE</text>
-  <text x="52" y="250">04  FRONTEND</text>
-  <text x="448" y="250">05  OPERATING SYSTEMS</text>
-  <text x="844" y="250">06  TOOLS &amp; FUNDAMENTALS</text>
+  <text x="52" y="58">LANGUAGES</text>
+  <text x="448" y="58">SECURITY</text>
+  <text x="844" y="58">DATA &amp; INFRASTRUCTURE</text>
+  <text x="52" y="250">FRONTEND</text>
+  <text x="448" y="250">OPERATING SYSTEMS</text>
+  <text x="844" y="250">TOOLS &amp; FUNDAMENTALS</text>
  </g>
  <g fill="#E7F0FC">
   <text x="52" y="101">Python · C · C++ · Rust</text>
