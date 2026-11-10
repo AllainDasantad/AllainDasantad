@@ -19,4 +19,21 @@
 <circle cx="600" cy="150" r="52" fill="url(#core)"><animate attributeName="r" values="42;58;42" dur="3.2s" repeatCount="indefinite"/></circle>
 <circle cx="600" cy="150" r="3.5" fill="#FFFFFF"><animate attributeName="opacity" values=".7;1;.7" dur="2.4s" repeatCount="indefinite"/></circle>
 <g fill="#4F8FCB"><circle cx="150" cy="62" r="1.4"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle><circle cx="1040" cy="72" r="1.5"><animate attributeName="opacity" values="1;.25;1" dur="4s" repeatCount="indefinite"/></circle><circle cx="920" cy="242" r="1.2"><animate attributeName="opacity" values=".2;.9;.2" dur="3.6s" repeatCount="indefinite"/></circle><circle cx="260" cy="238" r="1.2"><animate attributeName="opacity" values=".8;.2;.8" dur="4.2s" repeatCount="indefinite"/></circle></g>
-<g class="sapphire-blob-effect" clip-path="url(#sapphireClip)" style="mix-blend-mode:screen" opacity=".18"><ellipse cx="864" cy="126" rx="192" ry="126" fill="url(#sapphireBlob)" filter="url(#sapphireBlur)"><animate attributeName="cx" values="864;576;912;864" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="126;204.00000000000003;84.00000000000001;126" dur="9s" repeatCount="indefinite"/></ellipse><ellipse cx="300" cy="234" rx="111.35999999999999" ry="78.12" fill="url(#sapphireBlob)" filter="url(#sapphireBlur)" opacity=".7"><animate attributeName="cx" values="300;504;216;300" dur="12s" repeatCount="indefinite"/><animate attributeName="cy" values="234;72;222;234" dur="12s" repeatCount="indefinite"/></ellipse></g><style>@media(prefers-reduced-motion:reduce){.sapphire-blob-effect{display:none}}</style></svg>
+<g class="sapphire-blob-effect" clip-path="url(#sapphireClip)" style="mix-blend-mode:screen" opacity=".18"><ellipse cx="864" cy="126" rx="192" ry="126" fill="url(#sapphireBlob)" filter="url(#sapphireBlur)"><animate attributeName="cx" values="864;576;912;864" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="126;204.00000000000003;84.00000000000001;126" dur="9s" repeatCount="indefinite"/></ellipse><ellipse cx="300" cy="234" rx="111.35999999999999" ry="78.12" fill="url(#sapphireBlob)" filter="url(#sapphireBlur)" opacity=".7"><animate attributeName="cx" values="300;504;216;300" dur="12s" repeatCount="indefinite"/><animate attributeName="cy" values="234;72;222;234" dur="12s" repeatCount="indefinite"/></ellipse></g><style>@media(prefers-reduced-motion:reduce){.sapphire-blob-effect{display:none}}</style>
+<!-- Animated light pulse travelling along the thread field -->
+<g fill="none" pointer-events="none" stroke-linecap="round">
+  <path d="M0 150 C210 20 390 70 600 150 S990 270 1200 130" stroke="#EAF3FF" stroke-opacity=".8" stroke-width="1.6" stroke-dasharray="1 34" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="0;-350" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 150 C210 20 390 70 600 150 S990 270 1200 130" stroke="#4F8FCB" stroke-opacity=".65" stroke-width="7" stroke-dasharray="1 160">
+    <animate attributeName="stroke-dashoffset" values="0;-640" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 150H1200" stroke="#B9D7F5" stroke-opacity=".08" stroke-dasharray="3 12">
+    <animate attributeName="stroke-dashoffset" values="0;150" dur="12s" repeatCount="indefinite"/>
+  </path>
+</g>
+<circle cx="600" cy="150" r="78" fill="none" stroke="#4F8FCB" stroke-opacity=".18" stroke-dasharray="2 9">
+  <animate attributeName="r" values="50;100;50" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".55;0;.55" dur="5s" repeatCount="indefinite"/>
+</circle>
+</svg>

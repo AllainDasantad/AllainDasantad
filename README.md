@@ -1,9 +1,9 @@
 <a href="https://github.com/AllainDasantad">
-  <img src="assets/profile-hero.svg?v=6" width="100%" alt="Allain Dasantad — Cybersecurity, Cloud and Software" />
+  <img src="assets/profile-hero.svg?v=7" width="100%" alt="Allain Dasantad — Cybersecurity, Cloud and Software" />
 </a>
 
 <p align="center">
-  <img src="assets/web-threads.svg?v=3" width="100%" alt="Animated Midnight Sapphire threads" />
+  <img src="assets/web-threads.svg?v=4" width="100%" alt="Animated Midnight Sapphire threads" />
 </p>
 
 <p align="center">
@@ -13,21 +13,21 @@
 </p>
 
 <img src="assets/title-about-v2.svg?v=4" width="100%" alt="About me" />
-<img src="assets/about-intro-v2.svg?v=4" width="100%" alt="About Allain: CMKL University student interested in cybersecurity, cloud infrastructure, networking and systems." />
+<img src="assets/about-intro-v2.svg?v=5" width="100%" alt="About Allain: CMKL University student interested in cybersecurity, cloud infrastructure, networking and systems." />
 
 <img src="assets/title-focus-v2.svg?v=4" width="100%" alt="Current direction" />
-<img src="assets/focus-panel-v2.svg?v=6" width="100%" alt="Current interests and areas of exploration." />
+<img src="assets/focus-panel-v2.svg?v=7" width="100%" alt="Current interests and areas of exploration." />
 
 <img src="assets/title-work-v2.svg?v=4" width="100%" alt="Selected projects" />
 
 <p align="center">
-  <img src="assets/repository-marquee.svg?v=4" width="100%" alt="Sliding showcase of Allain's repositories" />
+  <img src="assets/repository-marquee.svg?v=5" width="100%" alt="Sliding showcase of Allain's repositories" />
 </p>
 
-<a href="https://github.com/AllainDasantad/netsniff"><img src="assets/project-netsniff-v2.svg?v=4" width="100%" alt="NetSniff — desktop network analyzer built with React, TypeScript, Rust and Tauri." /></a>
+<a href="https://github.com/AllainDasantad/netsniff"><img src="assets/project-netsniff-v2.svg?v=5" width="100%" alt="NetSniff — desktop network analyzer built with React, TypeScript, Rust and Tauri." /></a>
 
 <img src="assets/title-toolkit-v2.svg?v=4" width="100%" alt="Toolkit" />
-<img src="assets/tech-constellation-v2.svg?v=4" width="100%" alt="Languages, security, cloud, infrastructure, frontend, operating systems and developer tools." />
+<img src="assets/tech-constellation-v2.svg?v=5" width="100%" alt="Languages, security, cloud, infrastructure, frontend, operating systems and developer tools." />
 
 <img src="assets/title-commits-v2.svg?v=4" width="100%" alt="Commit log" />
 
@@ -42,5 +42,5 @@
 </p>
 
 <a href="https://github.com/AllainDasantad">
-  <img src="assets/footer-signature-v2.svg?v=4" width="100%" alt="Keep learning. Keep building. — Allain Dasantad." />
+  <img src="assets/footer-signature-v2.svg?v=5" width="100%" alt="Keep learning. Keep building. — Allain Dasantad." />
 </a>
