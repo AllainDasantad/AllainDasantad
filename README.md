@@ -29,6 +29,8 @@
 <img src="assets/title-toolkit-v2.svg?v=4" width="100%" alt="Toolkit" />
 <img src="assets/tech-constellation-v2.svg?v=5" width="100%" alt="Languages, security, cloud, infrastructure, frontend, operating systems and developer tools." />
 
+**Linux:** Arch Linux · BlackArch
+
 <img src="assets/title-commits-v2.svg?v=4" width="100%" alt="Commit log" />
 
 <p align="center">
